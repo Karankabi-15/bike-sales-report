@@ -1,4 +1,4 @@
-Bikes-Sales-dashbord
+Bikes-Sales-Report
 Objective:
 The objective of my Excel project was to improve my proficiency in using spreadsheets and Excel's features for data cleaning, analysis, and visualization. Through this project, I aimed to enhance my ability to organize and manipulate data, perform calculations and analysis, and create visual representations of data using charts and graphs.
 
@@ -16,6 +16,7 @@ To begin, I created a separate worksheet dedicated to the analysis and visualiza
 One of the key data processing steps I took was the creation of a pivot table. By utilizing Excel's pivot table feature, I was able to summarize and aggregate the bike sales data based on different variables such as sales data, customer demographics, and product details. This allowed for easier analysis and visualization of the data.
 Additionally, I leveraged Excel's charting capabilities to create visual representations of the bike sales data. By selecting the appropriate chart types and configuring the data series, I was able to present the insights and trends in a visually appealing manner.
 Throughout the data processing phase, I focused on generating meaningful insights and presenting them in a clear and understandable manner. Excel's functions, formulas, and features were utilized to manipulate and analyze the data effectively, enabling me to gain valuable insights from the bike sales dataset.
+
 Conclusion:
 The Excel project focused on analyzing bike sales data and presenting key insights using formulas, functions, pivot tables, and charts. The project demonstrated the importance of data cleaning, organization, and visualization in facilitating data analysis and decision-making.
 Through data cleaning, duplicate entries were removed, ensuring the accuracy and integrity of the dataset. The organization of data, such as categorizing age groups and converting abbreviations into full forms, improved data readability and comprehension.
