@@ -9,6 +9,7 @@ I focused on cleaning the data by identifying and removing any duplicate entries
 Additionally, I noticed that certain columns in the dataset contained abbreviations for variables such as marital status and gender. To make the data more understandable and consistent, I replaced these abbreviations with their corresponding full forms.
 Furthermore, I organized the age data into meaningful groups to facilitate visualization. I created a new column using Excel's IF function to categorize individuals into age groups such as "Adolescent," "Middle Age," and "Old" based on their age values.
 Throughout the data cleaning process, my focus was on ensuring data accuracy, consistency, and usability for further analysis and visualization tasks.
+
 Data Processing:
 Once the data gathering and cleaning phase was completed, I proceeded with data processing in Excel for my project.
 To begin, I created a separate worksheet dedicated to the analysis and visualization of the bike sales data. This worksheet served as the foundation for data processing tasks.
